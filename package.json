@@ -1,6 +1,6 @@
 {
   "name": "bare-gobject-registry",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A registry of live GObject instances, shared by Bare addons",
   "exports": {
     "./package": "./package.json",
